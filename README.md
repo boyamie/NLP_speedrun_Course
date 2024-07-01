@@ -9,7 +9,8 @@
 - writing code by oneself to derive results
 - preview by oneself on velog
 
-## ➡️ Meeting: 동아리실A 19:00~21:00 in PNU
+## ➡️ Meeting:
+[![Since](https://img.shields.io/badge/동아리실A-PNUCSE-6A5ACD.svg?&edge_flat=false)]
 - `online study` monday, pm7
 - `offline study` thursday, pm7
 
