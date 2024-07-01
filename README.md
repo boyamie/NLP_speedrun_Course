@@ -1,24 +1,24 @@
 # AIGroupStudy
 [![Since](https://img.shields.io/badge/since-2024.06.30-6A5ACD.svg?&edge_flat=false)](https://github.com/boyamie/AIGroupStudy) on summer session
 
-## ➡️ Goal
+## ➡Goal
 - mater interactive deep learning with code, math, and discussions
 
-## ➡️ Rules
+## ➡Rules
 - assignment-based study with meetings for questioning by tutor [son](https://github.com/zespy5)
 - writing code by oneself to derive results
 - preview by oneself on velog
 
-## ➡️ Meeting:
+## Meeting:
 ![Since](https://img.shields.io/badge/동아리실A-PNUCSE-6A5ACD.svg?&edge_flat=false)
 - `online study` monday, pm7
 - `offline study` thursday, pm7
 
-## ➡️ Reference: Dive into Deep Learning
+## Reference: Dive into Deep Learning
 
 <br />
 
-## ➡️ Progress
+## Progress
 
 ### ⛳️ week1
 #### Linear Regression & Fashion-MNIST
