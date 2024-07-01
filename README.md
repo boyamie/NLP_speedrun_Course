@@ -5,7 +5,7 @@
 - mater interactive deep learning with code, math, and discussions
 
 ## ➡️ Rules
-- assignment-based study with meetings for questioning
+- assignment-based study with meetings for questioning by tutor [son](https://github.com/zespy5)
 - writing code by oneself to derive results
 - preview by oneself on velog
 
