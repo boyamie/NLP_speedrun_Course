@@ -14,7 +14,8 @@
 - `online study` monday, pm7
 - `offline study` thursday, pm7
 
-## Reference: Dive into Deep Learning
+## Reference
+[Dive into Deep Learning](https://ko.d2l.ai/index.html)
 
 <br />
 
