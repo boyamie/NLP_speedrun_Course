@@ -10,7 +10,7 @@
 - preview by oneself on velog
 
 ## ➡️ Meeting:
-[![Since](https://img.shields.io/badge/동아리실A-PNUCSE-6A5ACD.svg?&edge_flat=false)]
+![Since](https://img.shields.io/badge/동아리실A-PNUCSE-6A5ACD.svg?&edge_flat=false)
 - `online study` monday, pm7
 - `offline study` thursday, pm7
 
