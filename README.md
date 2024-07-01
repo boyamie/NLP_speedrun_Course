@@ -25,6 +25,6 @@
 
 | date | species | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.04    | preview     | [bohyun](https://velog.io/@boyamie_/)                 |
-| 24.07.04    | review      | [bohyun](https://velog.io/@boyamie_/)                 | 
-| 24.07.04    | Q&A         | [bohyun](https://velog.io/@boyamie_/)                 |
+| 24.07.04    | preview     | [velog](https://velog.io/@boyamie_/)                 |
+| 24.07.04    | review      | [velog](https://velog.io/@boyamie_/)                 | 
+| 24.07.04    | Q&A         | [velog](https://velog.io/@boyamie_/)                 |
