@@ -26,6 +26,6 @@
 
 | date | species | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.04    | preview     | [velog](https://velog.io/@boyamie_/)                 |
+| 24.07.04    | preview     | [velog]([https://velog.io/@boyamie_/](https://velog.io/@boyamie_/Linear-Regression))                 |
 | 24.07.04    | review      | [velog](https://velog.io/@boyamie_/)                 | 
 | 24.07.04    | Q&A         | [velog](https://velog.io/@boyamie_/)                 |
