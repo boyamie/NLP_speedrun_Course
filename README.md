@@ -35,6 +35,6 @@
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.08    | preview     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
 
-#### Hugging face [link](https://huggingface.co/learn/nlp-course/en/chapter1/1 ) 
+#### Hugging face [link](https://huggingface.co/learn/nlp-course/en/chapter1/1 ) chapter 1
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.08    | preview     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
+| 24.07.11    | preview     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
