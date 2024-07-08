@@ -33,6 +33,6 @@
 
 | date | species | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.08    | preview     | [velog](https://velog.io/@boyamie_/Linear-Regression)                 |
+| 24.07.08    | preview     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
 | 24.07.08    | review      | [velog](https://velog.io/@boyamie_/)                 | 
 | 24.07.08    | Q&A         | [velog](https://velog.io/@boyamie_/)                 |
