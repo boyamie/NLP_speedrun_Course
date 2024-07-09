@@ -24,17 +24,18 @@
 ### ⛳️ week1
 #### Linear Regression & Fashion-MNIST
 
-| date | species | link                                                     | 
+| date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.04    | preview     | [velog](https://velog.io/@boyamie_/Linear-Regression)                 |
+| 24.07.04    | linear regression     | [velog](https://velog.io/@boyamie_/Linear-Regression)                 |
 
 ### ⛳️ week2
 #### Pytorch Tutorial
 
-| date | species | link                                                     | 
+| date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.08    | preview     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
+| 24.07.08    | pytorch tutorial     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
 
-#### Hugging face [link](https://huggingface.co/learn/nlp-course/en/chapter1/1 ) chapter 1
+#### Hugging face [link](https://huggingface.co/learn/nlp-course/en/chapter1/1 ) nlp chapter 1
+| date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.11    | preview     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
+| 24.07.11    | transformal models     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
