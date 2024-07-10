@@ -39,3 +39,4 @@
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.11    | transformal models     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
+| 24.07.11    | transformal models     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
