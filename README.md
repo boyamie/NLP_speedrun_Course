@@ -35,9 +35,7 @@
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.08    | pytorch tutorial     | [velog](https://velog.io/@boyamie_/python-PyTorch-Tutorial-Review)     |
 
-#### Hugging face NLP [chapter1](https://huggingface.co/learn/nlp-course/en/chapter1/1 ) 
-#### Hugging face NLP [chapter2](https://huggingface.co/learn/nlp-course/en/chapter2/1?fw=pt ) 
+#### Hugging face NLP [chapter1](https://huggingface.co/learn/nlp-course/en/chapter1/1 )
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.11    | transformer models     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
-| 24.07.11    | using transformers     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
