@@ -39,5 +39,5 @@
 #### Hugging face NLP [chapter2](https://huggingface.co/learn/nlp-course/en/chapter2/1?fw=pt ) 
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.11    | TRANSFORMER MODELS     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
-| 24.07.11    | USING TRANSFORMERS     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
+| 24.07.11    | transformer models     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
+| 24.07.11    | using transformers     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
