@@ -22,7 +22,7 @@
 ## Progress
 
 ### ⛳️ week1
-#### Linear Regression & Fashion-MNIST
+#### Linear Regression
 
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
@@ -39,3 +39,11 @@
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.11    | transformer models     | [velog](https://velog.io/@boyamie_/NLP-TRANSFORMER-MODELS)     |
+
+### ⛳️ week3
+#### Make Model
+
+| date | subject | link                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| 24.07.15    | Dataset & DataLoader     | [velog](https://velog.io/@boyamie_/SSH-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-PyTorch%EB%A1%9C-FashionMNIST-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)     |
+| 24.07.15    | Model     | [velog]()     |
