@@ -47,3 +47,10 @@
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.15    | Dataset & DataLoader     | [velog](https://velog.io/@boyamie_/SSH-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-PyTorch%EB%A1%9C-FashionMNIST-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0)     |
 | 24.07.15    | Model Train & Test | [velog](https://velog.io/@boyamie_/SSH-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-PyTorch%EB%A1%9C-%EB%AA%A8%EB%8D%B8-%EC%A0%95%EC%9D%98-%ED%9B%88%EB%A0%A8-%ED%8F%89%EA%B0%80%ED%95%98%EA%B8%B0CNN-%EA%B8%B0%EB%B0%98%EC%9D%98-%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EB%AA%A8%EB%8D%B8-%ED%99%9C%EC%84%B1%ED%99%94-%ED%95%A8%EC%88%98-%EB%B0%8F-%EB%93%9C%EB%A1%AD%EC%95%84%EC%9B%83)     |
+
+### ⛳️ week4
+#### Make Custom Conv Model
+
+| date | subject | link                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| 24.07.21    | Dataset & DataLoader     | [velog]
