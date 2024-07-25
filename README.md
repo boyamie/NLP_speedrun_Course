@@ -60,3 +60,7 @@
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.25    |  Using Transformers     | [velog](https://velog.io/@boyamie_/python-PyTorch-Project-Structure)
 | 24.07.25    |  Fine-Tuning     | [velog](https://velog.io/@boyamie_/NLP-FINE-TUNING-A-PRETRAINED-MODEL)
+
+| date | subject | link                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| 24.07.27    |  Mid-term review    | [velog]()
