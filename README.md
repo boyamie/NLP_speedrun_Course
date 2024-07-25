@@ -57,7 +57,7 @@
 | 24.07.22    |  PyTorch Project Structure 2     | [velog](https://velog.io/@boyamie_/python-PyTorch-Project-Structure-2)
 | 24.07.22    |  FeedBack    | [velog](https://velog.io/@boyamie_/python-PyTorch-Project-Structure)
 
-#### Hugging face NLP [chapter2](https://huggingface.co/learn/nlp-course/ko/chapter2/4?fw=pt)
+#### Hugging face NLP [chapter2](https://huggingface.co/learn/nlp-course/ko/chapter2/4?fw=pt) [chapter3 FINE-TUNING A PRETRAINED MODEL](https://huggingface.co/learn/nlp-course/chapter3/2?fw=pt)
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.25    |  Using Transformers     | [velog](https://velog.io/@boyamie_/python-PyTorch-Project-Structure)
