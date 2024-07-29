@@ -63,4 +63,11 @@
 
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.27    |  Mid-term review    | [velog]()
+| 24.07.27    |  Mid-term review    | [Notion](https://wirehaired-lock-8b0.notion.site/Gradient-Descent-d3bc0804dca6459983b6935f79ddffc6?pvs=4)
+
+### ⛳️ week4
+#### Make Custom Conv Model (Dataset: CIFAR10)
+
+| date | subject | link                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| 24.07.29    |  네이버영화평점NLP dataset    | [velog]()|
