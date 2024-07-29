@@ -70,4 +70,4 @@
 
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
-| 24.07.29    |  네이버영화평점NLP dataset    | [velog]()|
+| 24.07.29    |  네이버영화평점NLP dataset    | [velog](https://velog.io/@boyamie_/NLP-naver-movie-comments-datasets%EC%9C%BC%EB%A1%9C-RNN%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84)|
