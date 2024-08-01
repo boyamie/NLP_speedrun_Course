@@ -71,3 +71,11 @@
 | date | subject | link                                                     | 
 | ------ | --------- | ------------------------------------------------------------ |
 | 24.07.29    |  네이버영화평점NLP dataset    | [velog](https://velog.io/@boyamie_/NLP-naver-movie-comments-datasets%EC%9C%BC%EB%A1%9C-RNN%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84)|
+
+#### Make Custom Conv Model (Dataset: CIFAR10)
+
+| date | subject | link                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| 24.08.01    |  input,output 차원 조사    | [velog]()|
+| 24.08.01    |  RNN 내용 정리    | [velog](https://velog.io/@boyamie_/NLPRecurrent-Neural-Networks)|
+| 24.08.01    |  embedding 내용 정리    | [velog]()|
