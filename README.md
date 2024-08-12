@@ -79,3 +79,10 @@
 | 24.08.01    |  input,output 차원 조사    | [velog]()|
 | 24.08.01    |  RNN 내용 정리    | [velog](https://velog.io/@boyamie_/NLPRecurrent-Neural-Networks)|
 | 24.08.01    |  embedding 내용 정리    | [velog]()|
+
+### ⛳️ week6
+#### Loss Function
+
+| date | subject | link                                                     | 
+| ------ | --------- | ------------------------------------------------------------ |
+| 24.07.29    |  Linear Classifier& Softmax Classifier    | [velog](https://velog.io/@boyamie_/Linear-Classifier-Softmax-Classifier)|
